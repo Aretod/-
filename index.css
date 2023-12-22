@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-image: url('./public/bg.jpg');
+	background-size: cover;
+	background-position: 0% 25%;
+	background-color: #a8322d;
+	background-attachment: fixed;
+	cursor: crosshair;
+}
